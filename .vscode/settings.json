@@ -6,7 +6,7 @@
           
        }
    },
-   "window.title": "MYSITE > SERVER-DEV > ${activeEditorShort}",
+   "window.title": " SERVER-DEV > ${activeEditorShort}",
 
    "files.exclude": {
        "**/tsc-watch.cmd": true,
