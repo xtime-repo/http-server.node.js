@@ -1,0 +1,16 @@
+{
+   "workbench.colorCustomizations": {
+       "[Default Dark+]": {
+           "titleBar.activeBackground": "#e6510081",
+           "titleBar.activeForeground": "#ffffff",
+          
+       }
+   },
+   "window.title": "MYSITE > SERVER-DEV > ${activeEditorShort}",
+
+   "files.exclude": {
+       "**/tsc-watch.cmd": true,
+       "**/tsconfig.json": true,
+       "**/local.package.json": true,
+   }
+}
